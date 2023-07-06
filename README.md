@@ -16,7 +16,7 @@ Technology Used
 ----
 
 * HTML & CSS
-* 
+* Javascript
 * BOOTSTRAP
 * AngularJs
 
