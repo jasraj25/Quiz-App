@@ -25,11 +25,11 @@ Screenshots
 
 
 <img src="https://github.com/jasraj25/Quiz-App/blob/master/q1.png"
-width="350"/>
+width="500"/>
 <img src="https://github.com/jasraj25/Quiz-App/blob/master/q2.png"
-width="350"/>
+width="500"/>
 <img src="https://github.com/jasraj25/Quiz-App/blob/master/q3.png"
-width="350"/>
+width="500"/>
 
 
 
