@@ -24,6 +24,12 @@ Screenshots
 ----------
 
 
+<img src="https://github.com/jasraj25/Quiz-App/edit/master/q1.png"
+width="250"/>
+<img src="https://github.com/jasraj25/Quiz-App/edit/master/q2.png"
+width="250"/>
+<img src="https://github.com/jasraj25/Quiz-App/edit/master/q3.png"
+width="250"/>
 
 
 ```
